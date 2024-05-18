@@ -47,10 +47,10 @@
 
 **TEAM MEMBERS**
 
-| Names                | Github Names    | Emails                    |
-|----------------------|-----------------|---------------------------|
-| Theodoros Christou   | TheodorosChristou| 5chrit06@solent.ac.uk    |
-| Arooj Fatima         | Aroooj           | 5fatia92@solent.ac.uk    |
-| Harriet Goodyear     | GoodH21          | 5goodh71@solent.ac.uk    |
-| Maye Hunt            | MayeHunt         | 1huntg03@solent.ac.uk    |
-| Georgios Kleitou     | GeorgiosKleitou  | 5kleig36@solent.ac.uk    |
+| Names                | Github Names    |
+|----------------------|-----------------|
+| Theodoros Christou   | TheodorosChristou
+| Arooj Fatima         | Aroooj           
+| Harriet Goodyear     | GoodH21          
+| Maye Hunt            | MayeHunt         
+| Georgios Kleitou     | GeorgiosKleitou  
